@@ -1,4 +1,4 @@
-"","Region","Position","freq0","frq1","subs","p","p_adj","sym","A3SS","A5SS","MXE","RI","SE","type","ensembl_id","logFcExp","Delta_Free_energy"
+"","Region","Position","freq0","frq1","subs","p","p_adj","sym","A3SS","A5SS","MXE","RI","SE","type","ensembl_id","logFcExp","Diff_Free_energy"
 "1","chr1","109659077",0,8,"TC",1.66290420965193e-09,9.63731160204002e-07,"GSTM4",0,0,0,0,2,"exon","ENSG00000168765",0,0
 "2","chr1","111449473",0,2,"CT CG",0.000362478011022979,0.0307423971149908,"ATP5PB",0,0,2,0,5,"exon UTR","ENSG00000116459",0,1.69999999999999
 "3","chr1","111477647",0,0,"CA",0.000458954084214441,0.0367634962650072,"C1orf162",1,1,0,0,7,"intron","ENSG00000143110",0,0
